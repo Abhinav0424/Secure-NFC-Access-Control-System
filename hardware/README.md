@@ -1,1 +1,1 @@
-Circuit diagrams and pin configuration.
+Circuit diagrams and pin configuration .
